@@ -4,3 +4,4 @@ this is feature branch
 git fetch command 
 new commit add 
 new feature add
+new fetch
